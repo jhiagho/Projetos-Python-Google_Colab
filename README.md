@@ -14,11 +14,6 @@ Todos os notebooks estão prontos para serem abertos e executados **sem precisar
 
 ---
 
-## 🗂️ Organização  
-
-Os arquivos estão organizados conforme o tipo de conteúdo:
-
-
 ## 🧭 Tópicos abordados
 
 - Algoritmos clássicos (busca, ordenação, recursão, grafos etc.)  
